@@ -1,4 +1,3 @@
 # mongo_jenkins
 
-TODO: Enter the cookbook description here.
-
+mongodb cookbook, attempting to set up webhook and jenkins CI with automated builds for chef processes.
